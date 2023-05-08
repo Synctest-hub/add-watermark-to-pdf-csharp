@@ -1,6 +1,6 @@
 # Add watermark to PDF using C#
 
-The [Syncfusion .NET PDF Library](https://www.syncfusion.com/document-processing/pdf-framework/net/pdf-library) provides support to add watermark is an image or text that is added to a PDF document to indicate the authenticity or ownership of the document. The library provides APIs for programmatically adding watermarks to PDF documents, with options for specifying the position, size, and opacity of the watermark.
+The [Syncfusion .NET PDF Library](https://www.syncfusion.com/document-processing/pdf-framework/net/pdf-library) provides support to add watermark as an image or text that is added to a PDF document to indicate the authenticity or ownership of the document. The library provides APIs for programmatically adding watermarks to PDF documents, with options for specifying the position, size, and opacity of the watermark.
 
 Name | Description
 --- | ---
