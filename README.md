@@ -71,7 +71,7 @@ stream.Close();
 ```
 Execute this code example to get an image watermark in PDF document like in the following screenshot. 
 
-<img src="Screenshot/image2.png" alt="Image Watermark output" width="100%" Height="Auto"/>
+<img src="Screenshot/Image2.png" alt="Image Watermark output" width="100%" Height="Auto"/>
 
 ## Remove watermark from a PDF using C#
 
