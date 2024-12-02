@@ -24,7 +24,7 @@ PdfWatermarkAnnotation watermark = new PdfWatermarkAnnotation(new RectangleF(100
 //Sets properties to the annotation  
 watermark.Opacity = 0.5f; 
 //Create the appearance of watermark  
-watermark.Appearance.Normal.Graphics.DrawString("Imported using Essential&reg; PDF", new PdfStandardFont(PdfFontFamily.Helvetica, 20), PdfBrushes.Red, new RectangleF(50, 50, 250, 50), new PdfStringFormat(PdfTextAlignment.Center, PdfVerticalAlignment.Middle)); 
+watermark.Appearance.Normal.Graphics.DrawString("Imported using Essential PDF", new PdfStandardFont(PdfFontFamily.Helvetica, 20), PdfBrushes.Red, new RectangleF(50, 50, 250, 50), new PdfStringFormat(PdfTextAlignment.Center, PdfVerticalAlignment.Middle)); 
 //Adds the annotation to page  
 lpage.Annotations.Add(watermark); 
 
